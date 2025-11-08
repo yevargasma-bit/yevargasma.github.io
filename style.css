@@ -1,0 +1,62 @@
+/* Estilos generales */
+body {
+  font-family: 'Poppins', sans-serif;
+  background: linear-gradient(to bottom, #fff5e6, #ffe6cc);
+  color: #222;
+  margin: 0;
+  padding: 0;
+}
+
+/* Encabezado */
+header {
+  background-color: #ff0066;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+header img.logo {
+  width: 120px;
+  display: block;
+  margin: 0 auto 10px;
+}
+
+/* Menú de navegación */
+nav {
+  background-color: #ff3300;
+  padding: 10px;
+  text-align: center;
+}
+
+nav a {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  margin: 0 15px;
+}
+
+/* Secciones */
+section {
+  padding: 25px;
+  text-align: center;
+}
+
+section h2 {
+  color: #ff0066;
+  text-transform: uppercase;
+}
+
+img {
+  max-width: 100%;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+
+/* Pie de página */
+footer {
+  background-color: #ff3300;
+  color: white;
+  text-align: center;
+  padding: 15px;
+  font-size: 14px;
+}

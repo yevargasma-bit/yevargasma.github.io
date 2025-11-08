@@ -22,12 +22,11 @@ header {
 
 header img.hero-img {
   width: 100%;
-  max-height: 300px;
+  max-height: 200px; /* antes era 300px */
   object-fit: cover;
   border: 5px solid #ffcc00;
   border-radius: 15px;
 }
-
 header h1 {
   font-size: 3em;
   text-shadow: 2px 2px #000;
